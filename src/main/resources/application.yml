@@ -4,11 +4,11 @@ spring:
       client:
         registration:
           google:
-            clientId: 190028478423-s2jc2ruii8nalg6kij1lh4jbfi1b8p04.apps.googleusercontent.com
-            clientSecret: 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
+            clientId: 
+            clientSecret: 
           github:
-            clientId: 190028478423-s2jc2ruii8nalg6kij1lh4jbfi1b8p04.apps.googleusercontent.com
-            clientSecret: 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
+            clientId: 
+            clientSecret: 
           facebook:
-            clientId: 190028478423-s2jc2ruii8nalg6kij1lh4jbfi1b8p04.apps.googleusercontent.com
-            clientSecret: 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
+            clientId: 
+            clientSecret: 
